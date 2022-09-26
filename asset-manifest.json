@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.460a1ecb.css",
+    "main.js": "/static/js/main.1717d5a1.js",
+    "static/media/logo-apiki.webp": "/static/media/logo-apiki.f2e3c87e1a3f604bd493.webp",
+    "index.html": "/index.html",
+    "main.460a1ecb.css.map": "/static/css/main.460a1ecb.css.map",
+    "main.1717d5a1.js.map": "/static/js/main.1717d5a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460a1ecb.css",
+    "static/js/main.1717d5a1.js"
+  ]
+}
